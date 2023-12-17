@@ -5,6 +5,5 @@ The main system actors are:
 2. Student
 3. Professor
 
-The system asks the user whether he wants to login as admin or student or professor. Once chosen,
-a list of all available operations is displayed according to the chosen user type. This
+The system asks the user whether he wants to login as admin or student or professor. Once chosen, a list of all available operations is displayed according to the chosen user type. This
 options list must be displayed after the completion of each operation till the user chooses to exit.
